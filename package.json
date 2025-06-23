@@ -2,7 +2,7 @@
   "private": true,
   "type": "module",
   "name": "@anio-software/enkore.target-js-node",
-  "version": "0.0.229",
+  "version": "0.0.230",
   "description": "",
   "author": "Anio Software <info@anio.software>",
   "repository": {
