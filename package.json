@@ -2,7 +2,7 @@
   "private": true,
   "type": "module",
   "name": "@anio-software/enkore.target-js-node",
-  "version": "0.0.404",
+  "version": "0.0.410",
   "description": "",
   "author": "Anio Software <info@anio.software>",
   "repository": {
@@ -12,13 +12,13 @@
   "license": "MIT",
   "devDependencies": {
     "@anio-software/enkore": "^0.0.74",
-    "@anio-software/enkore-private.spec": "=0.400.1",
-    "@anio-software/enkore-private.target-js-factory": "=0.0.404",
+    "@anio-software/enkore-private.spec": "=0.402.0",
+    "@anio-software/enkore-private.target-js-factory": "=0.0.410",
     "@anio-software/enkore.core": "^0.11.2",
     "@anio-software/enkore.target-js": "^0.0.18-canary-13b51e9a-55a52c02"
   },
   "peerDependencies": {
     "@types/node": ">=22.7.x",
-    "@anio-software/enkore.js-runtime": ">=0.0.22"
+    "@anio-software/enkore.js-runtime": ">=0.0.26"
   }
 }
